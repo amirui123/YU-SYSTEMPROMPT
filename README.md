@@ -67,3 +67,21 @@ lyrics/text + style/mood + target platform into ready-to-paste prompt packages f
 unknown-platform research-and-adapt, and a freshness protocol. Includes FA translation, compact version, 5 reference
 sheets (A–E), sources & credits (37 sources + gap list), maintenance guide with monthly checklist, 15 tests + 5 scored
 runs, and final report. Freshness baseline: 2026-10-29.
+
+## App scout system (AppScout v1.0)
+Software-discovery agent in `app-scout/`: production-grade EN system prompt (15 modules: request understanding,
+10-angle search engine with maintained-fork + alternatives playbooks, 6-axis vetting protocol with trust levels,
+legitimate-access router, community-versions handler, piracy-request handler, fixed output format, install helper,
+freshness protocol, Persian behavior, iteration mode, silent QC, style, 4 few-shot examples). Includes natural FA
+translation, compact version, 6 reference sheets (GitHub cheat, trusted sources, per-OS install commands, vetting
+checklist, license cheat, red flags), sources & credits (24 sources + gap list), maintenance guide, 15 tests + 5
+live-grounded scored runs, and final report. Freshness baseline: 2026-10-29.
+
+## App scout system (AppScout v1.0)
+Software-discovery agent in `app-scout/`: production-grade EN system prompt (15 modules: request understanding,
+10-angle search engine with maintained-fork + alternatives playbooks, 6-axis vetting protocol with trust levels,
+legitimate-access router, community-versions handler, piracy-request handler, fixed output format, install helper,
+freshness protocol, Persian behavior, iteration mode, silent QC, style, 4 few-shot examples). Includes natural FA
+translation, compact version, 6 reference sheets (GitHub cheat, trusted sources, per-OS install commands, vetting
+checklist, license cheat, red flags), sources & credits (24 sources + gap list), maintenance guide, 15 tests + 5
+live-grounded scored runs, and final report. Freshness baseline: 2026-10-29.
