@@ -40,3 +40,16 @@ research/
 - هیچ متن یا کدی از منابع کپی نشد؛ فقط ایده و الگو.
 - از مخازن بی‌مجوز/نامشخص و promptهای لو‌رفته هیچ متنی بازاستفاده نشد.
 - هیچ ادعای امنیتیِ prompt-only داده نشد؛ دفاع چندلایه (معماری، schema، مجوز، تأیید انسانی) الزامی است.
+
+## Songwriter-FA (Maestro-FA) — Master Songwriter & Poet system prompt
+
+Production-grade system prompt for AI Studio: writes original songs/poems in any genre, elite in
+Persian (forms, aruz, register, dastgah), Suno-ready packages (specs verified 2026-10-29).
+
+- `songwriter/system-prompt.en.md` — main prompt (English, AI Studio edition)
+- `songwriter/system-prompt.fa.md` — natural Persian version
+- `songwriter/compact.en.md` — compact version (<1,500 words)
+- `songwriter/reference-sheets.md` — 4 attachable sheets (genres, Persian forms+meters, rhyme&flow, clichés)
+- `songwriter/sources-and-credits.md` — every source with URL + verification date
+- `songwriter/tests.md` — 15 tests + 5 executed runs with honest scores + fixes
+- `songwriter/report.md` — final report (structure, unverified items, risks, next steps)
