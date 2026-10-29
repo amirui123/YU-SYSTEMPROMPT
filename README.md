@@ -86,3 +86,14 @@ stop, untrusted-content safety, fixed a–i output format, freshness, Persian/mu
 (query-expansion, GitHub patterns, operators, credibility, vetting, log template, scoring rubric, injection
 red-flags), sources & credits (27 entries + dead-end list), maintenance guide, 15 tests + 5 live-grounded scored
 runs (23/25/24/23/24), and final report. Freshness baseline: 2026-10-29.
+
+## Deep investigator system (DeepInvestigator v1.0)
+Investigative-research agent in `deep-investigator/`: production-grade EN system prompt (20 modules: identity,
+hard ethics & boundaries incl. private-individual protocol + no-face-ID rule, triage with QUICK/STANDARD/DEEP/AUTO,
+12-step investigation pipeline, search engine, credibility + circular-reporting detection, 5-label verification,
+media verification with geo/chronolocation, organization & event playbooks, scam-check, self-footprint, long-run ops,
+safety, a–k dossier format, freshness, Persian/multilingual, iteration, silent QC, style, 5 few-shots). Includes
+natural FA translation, compact version (<1,500 words), 9 reference sheets (verification checklist, credibility
+rubric, media workflow, per-country company research, timeline template, scam checklist, self-audit guide, log
+template, injection red-flags), sources & credits (28 entries + dead-end list), maintenance guide, 15 tests + 5
+live-grounded scored runs (25/23/24/24/24), and final report. Freshness baseline: 2026-10-29.
