@@ -53,3 +53,17 @@ Persian (forms, aruz, register, dastgah), Suno-ready packages (specs verified 20
 - `songwriter/sources-and-credits.md` — every source with URL + verification date
 - `songwriter/tests.md` — 15 tests + 5 executed runs with honest scores + fixes
 - `songwriter/report.md` — final report (structure, unverified items, risks, next steps)
+
+## Songwriter system (Maestro-FA v1.0)
+Persian lyric/vocal songwriting prompt system in `songwriter/`: main EN prompt (`system-prompt.en.md`, AI Studio
+Edition) + natural Persian translation + compact version + 4 reference sheets (genre/BPM, Persian forms+meters,
+rhyme&flow, banned clichés) + sources & credits + 15 tests with 5 scored runs + final report. Research: Persian
+metres/dastgah, song structure, Suno custom-mode guides, genre BPM chart (2026-10-29).
+
+## Audio director system (Maestro-AD v1.0)
+Audio Prompt Director in `audio-director/`: production-grade EN system prompt (AI Studio Edition) that converts
+lyrics/text + style/mood + target platform into ready-to-paste prompt packages for 20 tools across 5 categories
+(vocal generators, open-source/local, royalty-free BGM, TTS, SFX), with per-platform Persian + license sections,
+unknown-platform research-and-adapt, and a freshness protocol. Includes FA translation, compact version, 5 reference
+sheets (A–E), sources & credits (37 sources + gap list), maintenance guide with monthly checklist, 15 tests + 5 scored
+runs, and final report. Freshness baseline: 2026-10-29.
